@@ -1,7 +1,7 @@
 Lab 07 - Conveying the right message through visualisation
 ================
-Insert your name here
-Insert date here
+Allison Li
+03032025
 
 ### Load packages and data
 
